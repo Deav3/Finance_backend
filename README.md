@@ -1,6 +1,5 @@
 # Finance_backend
-Finance Dashboard Backend built with Spring Boot REST APIs featuring JWT authentication and role-based access (Admin, Analyst, Viewer). Supports financial records CRUD, advanced filtering, pagination, and real-time analytics. Integrated with MySQL and documented using Swagger for easy API testing.
-
+"Finance Dashboard Backend using Java Spring Boot and MySQL. The project includes JWT authentication, role-based access control with three roles (Admin, Analyst, Viewer), full CRUD for financial records with filtering and pagination, and a dashboard summary API with category breakdown and monthly trends. A data seeder creates sample users and records on first run. Swagger documentation is available at /swagger-ui.html."
 
 
 # Finance Dashboard Backend
